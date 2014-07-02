@@ -293,7 +293,7 @@ video.with-shadow {
       padding: 10px 0 10px 10px; }
     #nav .nav-section-header:after {
       content: '';
-      background: transparent url(../images/styles/disclosure_down.png) no-repeat scroll 50% 50%;
+      background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130047083.png) no-repeat scroll 50% 50%;
       width: 34px;
       height: 34px;
       display: block;
@@ -331,7 +331,7 @@ video.with-shadow {
   }
     #nav li.expanded > .nav-section-header:after {
       content: '';
-      background: transparent url(../images/styles/disclosure_up.png) no-repeat scroll 50% 50%;
+      background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130131054.png) no-repeat scroll 50% 50%;
       width: 34px;
       height: 34px; }
   #nav li.expanded li ul.tree-list-children {
@@ -480,7 +480,7 @@ a.back-link {
     .training-nav-top .prev-page-link:before,
     a.back-link:before {
       content: '';
-      background: transparent url(../images/styles/disclosure_left.png) no-repeat scroll 50% 50%;
+      background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130110035.png) no-repeat scroll 50% 50%;
       width: 10px;
       height: 10px;
       display: inline-block;
@@ -499,7 +499,7 @@ a.back-link {
     .next-class-link:after,
     .go-link:after {
       content: '';
-      background: transparent url(../images/styles/disclosure_right.png) no-repeat scroll 50% 50%;
+      background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702131246097.png) no-repeat scroll 50% 50%;
       width: 10px;
       height: 10px;
       display: inline-block;
@@ -583,7 +583,7 @@ a.back-link {
     float:left;
     font-size:18px;
     font-weight:bold;
-    background: transparent url(../images/styles/disclosure_right.png) no-repeat scroll 50% 50%;
+    background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702131246097.png) no-repeat scroll 50% 50%;
     width: 10px;
     height: 32px;
   }
@@ -1385,7 +1385,7 @@ color-stop(50%, #acbc00), color-stop(50%, #bdde00), color-stop(100%, #bdde00));
   margin: 0px 0;
   border: solid 1px #EBEBEB;
   -webkit-appearance: none;
-  background: white url('../images/arrows-up-down.png') right center no-repeat;
+  background: white url('http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125716011.png') right center no-repeat;
   height: 30px;
   color: #222;
   line-height: normal;
@@ -1623,7 +1623,7 @@ Header, Login, Nav-X, Search
   height: 16px;
   margin: 0;
   text-indent: -1000em;
-  background: url(../images/close.png) no-repeat 0 0;
+  background: url(http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125922061.png) no-repeat 0 0;
   z-index:9999;
 }
 .search .close:hover, .search .close:focus,
@@ -2089,7 +2089,7 @@ ul ul {
     border: solid 1px #ebebeb;
     border-top-color: #ddd;
     -webkit-appearance: none;
-    background: #f3f3f3 url(../images/arrows-up-down.png) right center no-repeat;
+    background: #f3f3f3 url(http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125716011.png) right center no-repeat;
     height: 30px;
     color: #222;
     line-height: normal;
@@ -2470,7 +2470,7 @@ a:visited,
   appearance:none;
   -moz-appearance:none;
   -webkit-appearance: none;
-  background: transparent url(../images/arrows-up-down.png) 23px 5px no-repeat;
+  background: transparent url(http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125716011.png) 23px 5px no-repeat;
   color: #222;
   height: 19px;
   line-height: 19px;
@@ -2571,7 +2571,7 @@ Lightbox
   height: 10px;
   margin: -10px -10px 10px 0;
   text-indent: -1000em;
-  background: url(../images/close.png) no-repeat 0 0;
+  background: url(http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125922061.png) no-repeat 0 0;
 }
 .lightbox .close:hover, .lightbox .close:focus {
   background-position: -10px 0;
@@ -4123,7 +4123,7 @@ EndColorStr='#ececec');
   color: #000;
 }
 .breadcrumb li:after {
-  content: url(../images/breadcrumb.png);
+  content: url(http://image16.poco.cn/mypoco/myphoto/20140702/12/1748327222014070212574008.png);
   position: relative;
   top: 1px;
   left: 10px;
@@ -4182,7 +4182,7 @@ EndColorStr='#ececec');
   float: left;
   width: 26px;
   height: 25px;
-  background: url(../images/dac_logo.png);
+  background: url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130000059.png);
   background-image: -webkit-image-set(url(../images/dac_logo.png) 1x, url(../images/dac_logo@2x.png) 2x);
   z-index: 52;
   position: relative;
@@ -4192,7 +4192,7 @@ EndColorStr='#ececec');
   width: 38px;
   height: 38px;
   position: relative;
-  background: url(../images/styles/gototop.png);
+  background: url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130150014.png);
   z-index: 52;
 }
 #sticky-header > div .breadcrumb {
@@ -4584,7 +4584,7 @@ EndColorStr='#ececec');
 .morehover .top {
   width:268px;
   height:39px;
-  background:url(../images/more_top.png) no-repeat;
+  background:url(http://image16.poco.cn/mypoco/myphoto/20140702/13/17483272220140702130626081.png) no-repeat;
 }
 
 .morehover .mid {
@@ -6955,7 +6955,7 @@ pointer-events: all;
 }
 
 #icon-video-close {
-background-image: url("../images/close.png");
+background-image: url("http://image16.poco.cn/mypoco/myphoto/20140702/12/17483272220140702125922061.png");
 background-position: 0 0;
 height: 36px;
 width: 36px;
